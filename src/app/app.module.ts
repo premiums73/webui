@@ -41,7 +41,6 @@ import { AboutDialogComponent } from './components/common/dialog/about/about-dia
 import { DirectoryServicesMonitorComponent } from './components/common/dialog/directory-services-monitor/directory-services-monitor.component';
 import { JobsManagerModule } from './components/common/dialog/jobs-manager/jobs-manager.module';
 import { ResilverProgressDialogComponent } from './components/common/dialog/resilver-progress/resilver-progress.component';
-import { TruecommandComponent } from './components/common/dialog/truecommand/truecommand.component';
 import { AppLoaderComponent } from './modules/app-loader/app-loader.component';
 import { AppLoaderModule } from './modules/app-loader/app-loader.module';
 import { AppLoaderService } from './modules/app-loader/app-loader.service';
@@ -125,7 +124,6 @@ import { WebSocketService } from './services/ws.service';
     InfoDialogComponent,
     GeneralDialogComponent,
     AboutDialogComponent,
-    TruecommandComponent,
     DirectoryServicesMonitorComponent,
     ConsolePanelDialogComponent,
     DownloadKeyDialogComponent,
@@ -158,7 +156,6 @@ import { WebSocketService } from './services/ws.service';
     InfoDialogComponent,
     GeneralDialogComponent,
     AboutDialogComponent,
-    TruecommandComponent,
     DirectoryServicesMonitorComponent,
     ConsolePanelDialogComponent,
     DownloadKeyDialogComponent,
