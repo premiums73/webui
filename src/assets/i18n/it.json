@@ -2127,7 +2127,7 @@
   "Parent Interface": "",
   "Parent dataset path (read-only).": "",
   "Parent path": "",
-  "Partition": "",
+  "Partition": "Partizione",
   "Passphrase": "",
   "Passphrase {successMessage} <i>{poolName}</i>": "",
   "Passthrough": "",
